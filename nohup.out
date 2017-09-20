@@ -1,0 +1,409 @@
+[I 06:16:05.141 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 06:16:05.667 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebooks
+[I 06:16:05.667 NotebookApp] 0 active kernels 
+[I 06:16:05.667 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 06:16:05.667 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 06:16:25.929 NotebookApp] 302 GET / (122.15.228.208) 0.73ms
+[I 06:16:26.244 NotebookApp] 302 GET /tree? (122.15.228.208) 1.20ms
+[I 06:16:36.208 NotebookApp] 302 POST /login?next=%2Ftree%3F (122.15.228.208) 1.16ms
+[I 06:17:04.287 NotebookApp] Creating new notebook in 
+[I 06:17:04.302 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[I 06:17:09.730 NotebookApp] Kernel started: 6cf96544-5989-4e95-92dd-508f1541f30a
+[I 06:19:13.521 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:21:21.667 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:23:35.311 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:25:52.342 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:27:54.936 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:29:45.495 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:29:55.779 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:30:11.767 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:32:18.795 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:53:58.534 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:56:05.171 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:56:53.607 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 06:59:27.425 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:00:25.445 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:01:47.586 NotebookApp] 302 GET / (66.102.7.235) 0.46ms
+[I 07:01:47.831 NotebookApp] 302 GET /tree? (66.102.7.14) 0.70ms
+[I 07:51:32.541 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:51:45.013 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:52:37.092 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:52:43.403 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:53:36.933 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:54:14.313 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:54:15.281 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 07:58:00.693 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:05:57.757 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:08:40.620 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:14:02.163 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:16:41.085 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:17:53.685 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:17:57.297 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:19:20.524 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:24:43.602 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:25:51.624 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:26:20.877 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:51:23.745 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 08:56:50.052 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 09:02:07.152 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 09:03:02.560 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 09:15:20.835 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 09:15:20.883 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:03:30.665 NotebookApp] 302 GET /tree? (45.112.59.92) 0.72ms
+[I 14:04:04.654 NotebookApp] 302 POST /login?next=%2Ftree%3F (45.112.59.92) 1.11ms
+[I 14:20:16.506 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:20:19.296 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:20:28.926 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:22:05.747 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:22:29.223 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:24:14.859 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:24:29.123 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:25:37.211 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 14:26:28.883 NotebookApp] Saving file at /numpy_tut.ipynb
+[W 14:30:30.250 NotebookApp] WebSocket ping timeout after 119526 ms.
+[W 15:13:29.999 NotebookApp] WebSocket ping timeout after 119723 ms.
+[I 15:57:33.956 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 15:58:29.130 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 15:59:40.830 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:00:29.661 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:00:42.827 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:02:23.798 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:02:37.485 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:04:24.180 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:04:24.403 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:04:24.909 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:04:37.115 NotebookApp] Saving file at /numpy_tut.ipynb
+[W 16:12:01.030 NotebookApp] WebSocket ping timeout after 119729 ms.
+[I 16:26:27.801 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:26:34.106 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:28:27.832 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:34:27.803 NotebookApp] Saving file at /numpy_tut.ipynb
+[I 16:54:28.397 NotebookApp] Saving file at /numpy_tut.ipynb
+[W 17:03:48.366 NotebookApp] WebSocket ping timeout after 119683 ms.
+[W 12:54:01.226 NotebookApp] WebSocket ping timeout after 119723 ms.
+[W 16:02:04.344 NotebookApp] WebSocket ping timeout after 119724 ms.
+[W 16:08:06.063 NotebookApp] WebSocket ping timeout after 119724 ms.
+[W 16:46:48.962 NotebookApp] WebSocket ping timeout after 119713 ms.
+[W 05:19:36.722 NotebookApp] SSL Error on 10 ('103.246.39.213', 35510): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[I 05:28:14.807 NotebookApp] Creating new notebook in 
+[I 05:28:21.367 NotebookApp] Kernel started: 4dc92ffe-cace-41dd-8aed-a8004e4aaab4
+[I 05:30:23.102 NotebookApp] Saving file at /RecommendationEngine.ipynb
+[I 05:31:28.445 NotebookApp] Saving file at /RecommendationEngine.ipynb
+[I 05:32:23.085 NotebookApp] Saving file at /RecommendationEngine.ipynb
+[I 05:34:23.662 NotebookApp] Saving file at /RecommendationEngine.ipynb
+[I 05:36:23.685 NotebookApp] Saving file at /RecommendationEngine.ipynb
+[I 05:38:23.710 NotebookApp] Saving file at /RecommendationEngine.ipynb
+[I 06:50:26.270 NotebookApp] Creating new notebook in 
+[I 06:50:32.038 NotebookApp] Kernel started: 9fabac5d-1e6a-4dd4-824d-71e386f9576c
+[I 06:52:33.121 NotebookApp] Saving file at /Untitled.ipynb
+[I 06:56:32.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 06:58:32.672 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:00:32.928 NotebookApp] Saving file at /Untitled.ipynb
+[E 07:00:32.929 NotebookApp] Error while saving file: Untitled.ipynb database or disk is full
+    Traceback (most recent call last):
+      File "/home/ubuntu/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 421, in save
+        self.check_and_sign(nb, path)
+      File "/home/ubuntu/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 440, in check_and_sign
+        self.notary.sign(nb)
+      File "/home/ubuntu/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 447, in sign
+        self.store.store_signature(signature, self.algorithm)
+      File "/home/ubuntu/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 209, in store_signature
+        (algorithm, digest, datetime.utcnow())
+    sqlite3.OperationalError: database or disk is full
+[W 07:00:32.937 NotebookApp] Unexpected error while saving file: Untitled.ipynb database or disk is full
+[E 07:00:32.938 NotebookApp] {
+      "Host": "34.211.193.90:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "26350",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "https://34.211.193.90:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|86e3a81d|da00648e7455691ee5dc7e3a56e7f8eb|1505225011",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+      "Content-Type": "application/json",
+      [I 04:35:02.743 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 04:35:03.674 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebooks
+[I 04:35:03.674 NotebookApp] 0 active kernels 
+[I 04:35:03.674 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 04:35:03.674 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 04:35:24.148 NotebookApp] 302 GET /tree? (45.112.59.92) 1.38ms
+[I 04:35:55.465 NotebookApp] 302 POST /login?next=%2Ftree%3F (45.112.59.92) 1.16ms
+[I 04:36:15.156 NotebookApp] Kernel started: f2573484-b459-4dbd-a6d5-2f8799803f66
+[I 04:38:16.191 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:40:15.865 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:42:16.586 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:44:16.687 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:46:15.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 04:48:15.764 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:00:16.830 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:02:15.425 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:04:15.428 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:06:15.434 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:46:16.875 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:48:15.484 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:50:15.487 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:51:41.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:51:46.142 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:52:13.412 NotebookApp] Saving file at /Untitled.ipynb
+[I 05:54:15.480 NotebookApp] Saving file at /Untitled.ipynb
+[W 06:04:18.023 NotebookApp] WebSocket ping timeout after 119725 ms.
+[W 11:57:56.238 NotebookApp] SSL Error on 11 ('5.101.40.34', 829): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[I 13:02:21.325 NotebookApp] Creating new notebook in 
+[I 13:02:29.802 NotebookApp] Kernel started: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 13:04:43.576 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:07:16.773 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:09:45.188 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:12:16.218 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:17:19.338 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:44:48.061 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:47:15.960 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:49:48.094 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:52:15.202 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:53:39.723 NotebookApp] Kernel interrupted: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 13:55:03.193 NotebookApp] Kernel interrupted: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 13:55:06.274 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:58:47.136 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:58:59.615 NotebookApp] Kernel interrupted: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 13:59:46.379 NotebookApp] Kernel interrupted: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 14:00:20.854 NotebookApp] Kernel interrupted: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 14:09:48.616 NotebookApp] Saving file at /Untitled1.ipynb
+[I 14:10:24.713 NotebookApp] Kernel interrupted: 55235f99-464b-402f-938a-0f2cbce5a963
+[I 14:13:27.980 NotebookApp] Saving file at /Untitled1.ipynb
+[I 14:17:07.031 NotebookApp] Saving file at /Untitled1.ipynb
+[I 14:19:37.422 NotebookApp] Saving file at /Untitled1.ipynb
+[I 14:19:41.652 NotebookApp] Saving file at /Untitled1.ipynb
+[W 14:40:39.642 NotebookApp] WebSocket ping timeout after 119725 ms.
+[I 15:07:21.839 NotebookApp] Creating new notebook in 
+[I 15:07:57.805 NotebookApp] Kernel started: 9a59f250-5365-4e20-bb65-c2581f236551
+[W 15:08:25.817 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170916043502 (45.112.59.92) 9.43ms referer=https://34.211.193.90:8888/notebooks/Untitled2.ipynb?kernel_name=python3
+[I 15:09:56.274 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:10:29.181 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:11:56.965 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:11:58.371 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:13:57.423 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:15:57.681 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:17:56.851 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:19:56.969 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[I 15:22:04.209 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[W 16:35:44.210 NotebookApp] WebSocket ping timeout after 119707 ms.
+[W 16:35:45.770 NotebookApp] WebSocket ping timeout after 119727 ms.
+[W 20:54:54.659 NotebookApp] SSL Error on 11 ('77.72.83.111', 305): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 00:57:03.792 NotebookApp] SSL Error on 11 ('141.212.122.16', 34437): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 05:19:07.754 NotebookApp] SSL Error on 11 ('103.246.39.213', 48924): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 05:19:07.756 NotebookApp] SSL Error on 11 ('103.246.39.213', 34238): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[I 05:19:14.110 NotebookApp] 302 GET /tree? (61.246.57.5) 0.88ms
+[I 05:20:38.427 NotebookApp] 302 POST /login?next=%2Ftree%3F (61.246.57.5) 1.16ms
+[I 05:44:15.994 NotebookApp] Saving file at /NamedEntityRecognition.ipynb
+[W 05:52:26.958 NotebookApp] SSL Error on 30 ('103.246.38.196', 48732): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[I 05:56:47.672 NotebookApp] Creating new notebook in 
+[I 05:56:57.821 NotebookApp] Kernel started: 6b532dde-17e8-4c54-bce8-14b33fa99eb8
+[I 05:58:57.372 NotebookApp] Saving file at /Lemmatization.ipynb
+[I 05:59:09.216 NotebookApp] Creating new notebook in 
+[I 05:59:17.343 NotebookApp] Kernel started: 0d179c34-080d-4294-a5c1-5485dabc73d4
+[I 05:59:59.805 NotebookApp] Creating new notebook in 
+[I 06:01:17.680 NotebookApp] Saving file at /CorporaExample.ipynb
+[I 06:03:17.707 NotebookApp] Saving file at /CorporaExample.ipynb
+[I 06:19:19.919 NotebookApp] Saving file at /CorporaExample.ipynb
+[I 06:21:19.920 NotebookApp] Saving file at /CorporaExample.ipynb
+[I 06:24:58.373 NotebookApp] Creating new notebook in 
+[I 06:25:07.765 NotebookApp] Kernel started: 1cf39fff-ac53-4b36-991c-fc716b1e2f5e
+[I 06:27:14.305 NotebookApp] Saving file at /Untitled2.ipynb
+[I 06:29:12.522 NotebookApp] Saving file at /WordNetExample.ipynb
+[I 06:31:08.166 NotebookApp] Saving file at /WordNetExample.ipynb
+[I 06:35:14.116 NotebookApp] Saving file at /WordNetExample.ipynb
+[I 06:37:10.383 NotebookApp] Saving file at /WordNetExample.ipynb
+[I 06:45:01.292 NotebookApp] Saving file at /WordNetExample.ipynb
+[I 06:45:08.149 NotebookApp] Saving file at /WordNetExample.ipynb
+[I 06:49:22.670 NotebookApp] Creating new notebook in 
+[I 06:49:29.735 NotebookApp] Kernel started: 0676e492-b43d-4447-9341-06c1aef06447
+Resource temporarily unavailable (src/thread.cpp:106)
+[W 06:49:56.531 NotebookApp] Timeout waiting for kernel_info reply from 0676e492-b43d-4447-9341-06c1aef06447
+[I 07:06:47.005 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 07:06:48.045 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebooks
+[I 07:06:48.045 NotebookApp] 0 active kernels 
+[I 07:06:48.045 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 07:06:48.046 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 07:07:10.124 NotebookApp] 302 GET /tree? (122.15.228.208) 1.38ms
+[I 07:07:19.956 NotebookApp] 302 POST /login?next=%2Ftree%3F (122.15.228.208) 1.17ms
+[W 07:07:30.733 NotebookApp] No such file or directory: Untitled2.ipynb
+[W 07:07:30.733 NotebookApp] 404 GET /api/contents/Untitled2.ipynb?content=0&_=1505717367046 (122.15.228.208) 1.17ms referer=https://34.211.193.90:8888/notebooks/Untitled2.ipynb?kernel_name=python3
+[I 07:07:31.070 NotebookApp] Uploading file to /Untitled2.ipynb
+[I 07:07:41.680 NotebookApp] Kernel started: 91a68d90-bd89-4f06-a352-80dfd21cdd74
+[I 07:10:44.691 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 07:57:53.890 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 07:58:32.610 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:03:19.970 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:06:29.510 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:14:47.564 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:25:17.644 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:28:05.680 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 91a68d90-bd89-4f06-a352-80dfd21cdd74 restarted
+[I 08:28:06.537 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:30:48.077 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 91a68d90-bd89-4f06-a352-80dfd21cdd74 restarted
+[I 08:32:13.276 NotebookApp] Kernel restarted: 91a68d90-bd89-4f06-a352-80dfd21cdd74
+[I 08:34:48.666 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:43:10.275 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 91a68d90-bd89-4f06-a352-80dfd21cdd74 restarted
+[I 08:43:10.644 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:45:30.136 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:55:16.319 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 91a68d90-bd89-4f06-a352-80dfd21cdd74 restarted
+[I 08:55:48.356 NotebookApp] Kernel restarted: 91a68d90-bd89-4f06-a352-80dfd21cdd74
+[I 08:55:49.835 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:56:18.647 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:57:01.999 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:57:02.871 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 08:57:43.546 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 09:06:24.004 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 10:09:16.013 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 10:11:55.213 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[I 10:19:48.165 NotebookApp] Saving file at /TextClassifierExample.ipynb
+[W 14:51:21.314 NotebookApp] Couldn't authenticate WebSocket connection
+[W 14:51:21.323 NotebookApp] 403 GET /api/kernels/9a59f250-5365-4e20-bb65-c2581f236551/channels?session_id=0766C20E5FED4C3398302FB9E697E1F7 (45.112.59.92) 10.27ms referer=None
+[W 14:51:22.452 NotebookApp] Couldn't authenticate WebSocket connection
+[W 14:51:22.453 NotebookApp] 403 GET /api/kernels/55235f99-464b-402f-938a-0f2cbce5a963/channels?session_id=CFFD21EF92CB48DF898C851E420054F0 (45.112.59.92) 2.92ms referer=None
+[I 14:51:30.300 NotebookApp] 302 GET /tree? (45.112.59.92) 0.87ms
+[W 14:51:31.835 NotebookApp] Couldn't authenticate WebSocket connection
+[W 14:51:31.837 NotebookApp] 403 GET /api/kernels/9a59f250-5365-4e20-bb65-c2581f236551/channels?session_id=0766C20E5FED4C3398302FB9E697E1F7 (45.112.59.92) 3.12ms referer=None
+[W 14:51:34.412 NotebookApp] Couldn't authenticate WebSocket connection
+[W 14:51:34.413 NotebookApp] 403 GET /api/kernels/55235f99-464b-402f-938a-0f2cbce5a963/channels?session_id=CFFD21EF92CB48DF898C851E420054F0 (45.112.59.92) 2.99ms referer=None
+[I 14:51:42.245 NotebookApp] 302 POST /login?next=%2Ftree%3F (45.112.59.92) 1.15ms
+[W 14:51:50.432 NotebookApp] 404 GET /api/kernels/9a59f250-5365-4e20-bb65-c2581f236551/channels?session_id=0766C20E5FED4C3398302FB9E697E1F7 (45.112.59.92): Kernel does not exist: 9a59f250-5365-4e20-bb65-c2581f236551
+[W 14:51:50.435 NotebookApp] 404 GET /api/kernels/9a59f250-5365-4e20-bb65-c2581f236551/channels?session_id=0766C20E5FED4C3398302FB9E697E1F7 (45.112.59.92) 4.96ms referer=None
+[W 14:51:53.053 NotebookApp] 404 GET /api/kernels/55235f99-464b-402f-938a-0f2cbce5a963/channels?session_id=CFFD21EF92CB48DF898C851E420054F0 (45.112.59.92): Kernel does not exist: 55235f99-464b-402f-938a-0f2cbce5a963
+[W 14:51:53.054 NotebookApp] 404 GET /api/kernels/55235f99-464b-402f-938a-0f2cbce5a963/channels?session_id=CFFD21EF92CB48DF898C851E420054F0 (45.112.59.92) 3.26ms referer=None
+[W 14:52:26.329 NotebookApp] Replacing stale connection: 9a59f250-5365-4e20-bb65-c2581f236551:0766C20E5FED4C3398302FB9E697E1F7
+[I 14:53:46.711 NotebookApp] Kernel shutdown: 91a68d90-bd89-4f06-a352-80dfd21cdd74
+[W 14:57:23.765 NotebookApp] WebSocket ping timeout after 119719 ms.
+[W 16:17:53.044 NotebookApp] 404 GET /api/kernels/91a68d90-bd89-4f06-a352-80dfd21cdd74/channels?session_id=AABCA2D54E2848E88396B4CE91EDE65C (45.112.59.92): Kernel does not exist: 91a68d90-bd89-4f06-a352-80dfd21cdd74
+[W 16:17:53.045 NotebookApp] 404 GET /api/kernels/91a68d90-bd89-4f06-a352-80dfd21cdd74/channels?session_id=AABCA2D54E2848E88396B4CE91EDE65C (45.112.59.92) 2.89ms referer=None
+[W 16:18:03.871 NotebookApp] Replacing stale connection: 91a68d90-bd89-4f06-a352-80dfd21cdd74:AABCA2D54E2848E88396B4CE91EDE65C
+[W 16:22:07.909 NotebookApp] Replacing stale connection: 91a68d90-bd89-4f06-a352-80dfd21cdd74:AABCA2D54E2848E88396B4CE91EDE65C
+[W 16:26:16.014 NotebookApp] Replacing stale connection: 91a68d90-bd89-4f06-a352-80dfd21cdd74:AABCA2D54E2848E88396B4CE91EDE65C
+[W 16:30:34.418 NotebookApp] Replacing stale connection: 91a68d90-bd89-4f06-a352-80dfd21cdd74:AABCA2D54E2848E88396B4CE91EDE65C
+[W 16:35:06.085 NotebookApp] Replacing stale connection: 91a68d90-bd89-4f06-a352-80dfd21cdd74:AABCA2D54E2848E88396B4CE91EDE65C
+[W 16:40:11.084 NotebookApp] Replacing stale connection: 91a68d90-bd89-4f06-a352-80dfd21cdd74:AABCA2D54E2848E88396B4CE91EDE65C
+[W 19:57:27.009 NotebookApp] SSL Error on 10 ('169.53.184.28', 10000): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 03:30:09.332 NotebookApp] SSL Error on 17 ('103.246.38.196', 35049): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 03:30:09.397 NotebookApp] SSL Error on 17 ('199.91.135.164', 44418): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 03:40:05.236 NotebookApp] SSL Error on 10 ('103.246.39.213', 53504): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 03:40:05.249 NotebookApp] SSL Error on 10 ('103.246.39.213', 36392): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 03:49:16.990 NotebookApp] SSL Error on 10 ('91.200.12.57', 30): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[I 03:49:52.440 NotebookApp] Creating new notebook in 
+[I 03:49:57.949 NotebookApp] Kernel started: 97b893c3-1151-4426-be64-76ca9d67fd9f
+[I 03:52:00.034 NotebookApp] Saving file at /Untitled4.ipynb
+[I 03:54:00.278 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 03:56:00.042 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 03:58:00.092 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 03:58:15.917 NotebookApp] Kernel started: 75e6bd88-e28e-4ee2-948e-aa8059d5c1a8
+[I 03:59:17.041 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:16:01.093 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:18:01.403 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:19:25.809 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:19:58.397 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:20:40.921 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:20:54.951 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 97b893c3-1151-4426-be64-76ca9d67fd9f restarted
+[I 04:21:19.222 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:24:01.279 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:25:34.856 NotebookApp] Kernel shutdown: 75e6bd88-e28e-4ee2-948e-aa8059d5c1a8
+[I 04:26:35.076 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:31:18.980 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 97b893c3-1151-4426-be64-76ca9d67fd9f restarted
+[I 04:33:46.127 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:39:16.919 NotebookApp] Kernel restarted: 97b893c3-1151-4426-be64-76ca9d67fd9f
+[I 04:40:41.335 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 04:42:10.992 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 97b893c3-1151-4426-be64-76ca9d67fd9f restarted
+[I 04:42:52.924 NotebookApp] Kernel restarted: 97b893c3-1151-4426-be64-76ca9d67fd9f
+[I 04:47:45.371 NotebookApp] Saving file at /SciKitNLP.ipynb
+[I 08:50:24.118 NotebookApp] Kernel shutdown: 97b893c3-1151-4426-be64-76ca9d67fd9f
+[I 08:50:25.987 NotebookApp] Creating new notebook in 
+[I 08:50:34.387 NotebookApp] Kernel started: 2ab22275-dcea-4c24-b973-30d4ddb3caf5
+[I 08:50:55.681 NotebookApp] Saving file at /VoteAndConfidence.ipynb
+[I 13:13:19.215 NotebookApp] Creating new notebook in 
+[I 13:13:23.329 NotebookApp] Kernel started: a391bde1-85f5-4989-bbfb-a083e5e2914c
+[I 13:15:25.243 NotebookApp] Saving file at /Untitled4.ipynb
+[I 13:21:25.540 NotebookApp] Saving file at /Untitled4.ipynb
+[I 13:25:23.642 NotebookApp] Saving file at /Untitled4.ipynb
+[W 13:31:25.362 NotebookApp] WebSocket ping timeout after 119722 ms.
+[I 13:35:25.638 NotebookApp] Saving file at /Untitled4.ipynb
+[I 13:37:24.556 NotebookApp] Saving file at /Untitled4.ipynb
+[I 13:38:19.982 NotebookApp] Saving file at /Untitled4.ipynb
+[I 13:39:24.406 NotebookApp] Saving file at /Untitled4.ipynb
+[W 13:42:44.871 NotebookApp] WebSocket ping timeout after 119727 ms.
+[W 15:36:22.960 NotebookApp] WebSocket ping timeout after 119253 ms.
+[I 15:37:49.626 NotebookApp] Saving file at /Untitled4.ipynb
+[I 15:39:49.642 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:19:49.848 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:21:49.770 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:22:51.283 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:22:59.508 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:23:19.287 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:23:22.507 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:23:50.438 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:24:42.356 NotebookApp] Kernel restarted: a391bde1-85f5-4989-bbfb-a083e5e2914c
+[W 16:24:42.366 NotebookApp] zmq message arrived on closed channel
+[I 16:25:49.802 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:26:41.441 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:26:51.359 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:27:04.976 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:27:43.513 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:27:49.792 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:28:20.939 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:29:49.802 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:38:24.935 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:39:50.763 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:41:50.040 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:43:49.837 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:45:53.083 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:47:06.394 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:47:49.849 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:48:50.752 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:49:49.948 NotebookApp] Saving file at /Untitled4.ipynb
+[W 17:04:45.681 NotebookApp] WebSocket ping timeout after 119691 ms.
+[W 18:01:54.855 NotebookApp] SSL Error on 16 ('54.214.180.117', 38743): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 00:26:57.052 NotebookApp] SSL Error on 16 ('196.52.43.56', 10000): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 04:59:02.029 NotebookApp] SSL Error on 16 ('103.246.39.213', 51986): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[W 04:59:04.508 NotebookApp] SSL Error on 16 ('103.246.39.213', 52026): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:749)
+[I 05:07:36.860 NotebookApp] Kernel shutdown: 2ab22275-dcea-4c24-b973-30d4ddb3caf5
+[I 05:07:47.227 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:08:17.465 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:09:43.288 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:09:50.942 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:10:21.830 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:10:56.158 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:11:05.269 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:11:22.149 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:11:30.835 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:11:43.590 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:11:43.667 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:12:42.074 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:12:44.150 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:12:49.555 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:12:49.790 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:13:08.741 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:13:43.320 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:13:48.324 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:14:49.992 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:15:00.768 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:15:19.108 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:15:43.338 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:15:44.322 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:16:37.659 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:17:12.201 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:17:23.685 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:17:30.436 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:17:43.333 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:19:14.532 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:19:38.548 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:21:10.210 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:21:21.295 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:21:43.324 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:23:46.009 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:25:38.345 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:25:43.315 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:26:15.623 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:27:44.143 NotebookApp] Saving file at /Untitled4.ipynb
+[I 05:54:05.850 NotebookApp] Saving file at /Untitled4.ipynb
